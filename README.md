@@ -9,5 +9,5 @@ Follow these steps to reproduce the development environment on your local machin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/solar-challenge-week0.git
+git clone https://github.com/chacha1921/solar-challenge-week0.git
 cd solar-challenge-week0
